@@ -10,17 +10,27 @@ Each analysis follows the same Simply Wall St-style framework:
 - **Catalysts and risks:** three growth drivers and three red flags
 - **Two investment scores (1–100):** one for 12 months and one for 5 years, each with a rating
 
+## ⭐ [Highlights: Top 10 by 12-month score](Highlights/README.md)
+
+The `Highlights` folder ranks the 10 stocks with the best 12-month score, across all sectors and sizes. It holds no copies of reports. It only names each stock and links to where its report lives.
+
 ## Coverage
 
+The table below is generated from each stock's latest report. Don't edit it by hand. Run `python3 scripts/update_index.py` instead.
+
+<!-- coverage:start -->
 | Ticker | Company | Sector | Size | Analysis date | Price | Base fair value | 12-month score | 5-year score | Snowflake |
 |---|---|---|---|---|---|---|---|---|---|
-| [GUER](Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) | Guerrilla RF | Information Technology | Micro-cap | 2026-10-01 | $4.07 | $4.12 | 59, Hold | 47, Hold | 11/30 |
+| [GUER](Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) | Guerrilla RF | Information Technology | Micro-Cap | 2026-10-01 | $4.07 | $4.12 | 59, Hold | 47, Hold | 11/30 |
+<!-- coverage:end -->
 
 Rating bands: 1–20 Strong Sell · 21–40 Sell · 41–60 Hold · 61–80 Buy · 81–100 Strong Buy
 
 ## Folder structure
 
 ```
+Highlights/README.md             top 10 by 12-month score (links only; generated)
+scripts/update_index.py          rebuilds Highlights and the Coverage table
 <Sector>/<Size tier>/<TICKER>/
     <TICKER>-<YYYY-MM-DD>.md     report (one per analysis date; older ones are kept)
     <ticker>_dcf.py              valuation model, if any (reproduces the report's numbers)
@@ -60,7 +70,8 @@ The number prefixes keep the tiers in size order instead of alphabetical order.
 
 - **Classifying a stock:** use its GICS sector and its basic market cap on the analysis date.
 - **When a stock changes tier:** move its folder to the new tier with `git mv`, so the history stays attached.
-- **Updating an analysis:** add a new dated report next to the old one rather than overwriting it, then update the Coverage table above.
+- **Report header:** every report starts with a front-matter block holding its ticker, sector, tier, date, price and scores. The index script reads these fields. [CLAUDE.md](CLAUDE.md) lists them.
+- **Updating an analysis:** add a new dated report next to the old one rather than overwriting it. Then run `python3 scripts/update_index.py` and commit the regenerated files with the report.
 - **Empty folders:** the `.gitkeep` files exist only so Git keeps empty folders. Once a folder has real content, its `.gitkeep` can be deleted.
 
 ---
