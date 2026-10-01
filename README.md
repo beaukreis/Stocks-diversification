@@ -28,11 +28,14 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | [601567](Industrials/3-Mid-Cap/601567/601567-2026-10-01.md) | Ningbo Sanxing Medical Electric (Sanxing Electric) | Industrials | Mid-Cap | 2026-10-01 | CN¥15.40 | CN¥16.52 | 53, Hold | 59, Hold | 16/30 |
 | [GUER](Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) | Guerrilla RF | Information Technology | Micro-Cap | 2026-10-01 | $4.07 | $4.12 | 59, Hold | 47, Hold | 11/30 |
 | [KVHI](Information-Technology/1-Micro-Cap/KVHI/KVHI-2026-10-01.md) | KVH Industries | Information Technology | Micro-Cap | 2026-10-01 | $7.21 | $9.50 | 61, Buy | 60, Hold | 15/30 |
+| [2313](Information-Technology/3-Mid-Cap/2313/2313-2026-10-01.md) | Compeq Manufacturing / 華通電腦 | Information Technology | Mid-Cap | 2026-10-01 | NT$223.0 | NT$145.63 | 55, Hold | 58, Hold | 18/30 |
+| [3036](Information-Technology/3-Mid-Cap/3036/3036-2026-10-01.md) | WT Microelectronics / 文曄科技 | Information Technology | Mid-Cap | 2026-10-01 | NT$191.0 | NT$297.86 | 66, Buy | 60, Hold | 23/30 |
 | [001389](Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md) | Delton Technology (Guangzhou) / 广合科技 | Information Technology | Large-Cap | 2026-10-01 | CN¥177.59 | CN¥114 | 55, Hold | 58, Hold | 19/30 |
 | [2344](Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md) | Winbond Electronics | Information Technology | Large-Cap | 2026-10-01 | NT$180.5 | NT$147 | 62, Buy | 50, Hold | 22/30 |
 | [2408](Information-Technology/4-Large-Cap/2408/2408-2026-10-01.md) | Nanya Technology | Information Technology | Large-Cap | 2026-10-01 | NT$490.0 | NT$249.68 | 58, Hold | 45, Hold | 22/30 |
 | [300308](Information-Technology/4-Large-Cap/300308/300308-2026-10-01.md) | Zhongji Innolight / 中际旭创 | Information Technology | Large-Cap | 2026-10-01 | CN¥808.44 | CN¥553 | 59, Hold | 64, Buy | 24/30 |
 | [300502](Information-Technology/4-Large-Cap/300502/300502-2026-10-01.md) | Eoptolink / 新易盛 | Information Technology | Large-Cap | 2026-10-01 | CN¥455.8 | CN¥209 | 51, Hold | 56, Hold | 21/30 |
+| [6770](Information-Technology/4-Large-Cap/6770/6770-2026-10-01.md) | Powerchip Semiconductor Manufacturing (PSMC) / 力積電 | Information Technology | Large-Cap | 2026-10-01 | NT$73.5 | NT$28.73 | 55, Hold | 45, Hold | 15/30 |
 | [A005930](Information-Technology/5-Mega-Cap/A005930/A005930-2026-10-01.md) | Samsung Electronics | Information Technology | Mega-Cap | 2026-10-01 | ₩276000 | ₩251707 | 68, Buy | 68, Buy | 27/30 |
 | [AVGO](Information-Technology/5-Mega-Cap/AVGO/AVGO-2026-10-01.md) | Broadcom | Information Technology | Mega-Cap | 2026-10-01 | $351.19 | $336.78 | 70, Buy | 75, Buy | 22/30 |
 | [NVDA](Information-Technology/5-Mega-Cap/NVDA/NVDA-2026-10-01.md) | NVIDIA | Information Technology | Mega-Cap | 2026-10-01 | $228.38 | $194.20 | 69, Buy | 79, Buy | 26/30 |
