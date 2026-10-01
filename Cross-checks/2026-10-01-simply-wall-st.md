@@ -65,3 +65,28 @@ The other 29 reports are unchanged: I either agree with SWS or SWS's data was to
 ## To do with the logged-in account
 
 Please confirm the live prices for APR (which predates its Q2 results), Sinomine, Compeq, Kstar, HansBiomed, IFBH (SWS shows HK$47.55 vs my HK$4.14) and Appen. Then ask SWS's AI why its Shandong Head analysts see +73%.
+
+---
+
+## Second check: the owner's Simply Wall St audit (PDF, 30 Sep – 1 Oct 2026)
+
+The owner supplied a separate audit of the original top 10, built from Simply Wall St's logged-in pages. Its 0–100 scores put **30% of the weight on SWS's fair-value gap**, and the audit itself warns that gaps of 77–97% "rest on thin analyst coverage". So I used it as a **source of facts to verify**, not as a ranking to copy.
+
+| Stock | Audit score | My score (12M / 5Y) | What the audit added | Verified? | What I did |
+|---|---|---|---|---|---|
+| Kona I | **82** (#1) | 67 / 68 | +40% a year forecast (1 analyst), no risk flags | Forecast from a single analyst | No change: its #1 rests on a 96.6% DCF gap |
+| Samsung | **80** (#2) | 65 / 68 | 77% DCF gap, 13.5% weekly volatility | DCF rejected; SWS analysts are below the price | No change |
+| K92 | 78 | 68 / 74 | CEO transition 1 Oct; non-cash-earnings flag | CEO change confirmed as a planned internal handover; cash flow contradicts the flag | No change |
+| APR | 76 | **70 → 67** / 71 | Non-cash-earnings flag; −15.6% in a month; 1.4% yield | Partly (inventory build) | Momentum 95→90, technicals 60→50 |
+| NVIDIA | 72 | 70 / 80 | Non-cash earnings, insider selling, beta 2.2 | Operating cash ≈ profit; routine pre-planned sales | No change |
+| Forest Cabin | 72 | **66 → 65** / 73 | **'Major' accrual-ratio flag (~70%)**, 70% payout | Can't verify cash conversion; the dividend is paid in cash | Momentum 85→80, quality check ❌ |
+| YesAsia | 72 | 60 / 57 | P/E 6.6x, −46% over a year, unstable dividend | My cut rests on cash data, not the flag | No change |
+| Broadcom | 69 | 70 / 75 | Real snowflake: V5 F6 P6 H5 D4 | Yes (SWS data) | Adopted SWS's health 5/6 and peer P/E; snowflake 22 → 25 |
+| WAF | 68 | 64 / 59 | Consensus EPS cuts, margins down, insider selling | Consensus and margin trims yes; insider selling no | Technicals 60→55; total still 64 |
+| WT Micro | 67 | 66 / 58 | Only 6.5% below SWS fair value; unstable dividend | Yes | Dividend 'stable' check ❌; snowflake 23 → 22 |
+
+**Where the audit and I agree:** the same 10 names belong at the top, Broadcom and WT Micro are fairly priced, and the extreme fair-value gaps shouldn't be trusted.
+
+**Where we differ, and why I keep mine:** the audit ranks Kona I and Samsung #1–#2 almost entirely on SWS's DCF gaps. My scoring weights the 12-month drivers (momentum, catalysts, policy and cycle risk, price trend) and uses my own full-cycle DCFs. Kona I's earnings depend on government budgets, and Samsung trades above both SWS's analyst and narrative fair values.
+
+**Top 10 after both checks:** NVDA 70, AVGO 70, KNT 68, APR 67, A052400 67, 3036 66, 2657 65, A005930 65, WAF 64, 2543 63. Same ten names as after the first check; APR moves from #3 to #4 and Forest Cabin from #6 to #7.

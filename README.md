@@ -27,8 +27,8 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | [2508](Consumer-Discretionary/1-Micro-Cap/2508/2508-2026-10-01.md) | Saint Bella / 圣贝拉 | Consumer Discretionary | Micro-Cap | 2026-10-01 | HK$3.175 | HK$5.31 | 58, Hold | 57, Hold | 18/30 |
 | [2543](Consumer-Discretionary/1-Micro-Cap/2543/2543-2026-10-01.md) | DAHON TECH (Shenzhen) / 大行科工 | Consumer Discretionary | Micro-Cap | 2026-10-01 | HK$27.12 | HK$70.99 | 63, Buy | 67, Buy | 25/30 |
 | [6603](Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md) | IFBH Limited | Consumer Staples | Micro-Cap | 2026-10-01 | HK$4.14 | HK$9.00 | 44, Hold | 59, Hold | 17/30 |
-| [2657](Consumer-Staples/2-Small-Cap/2657/2657-2026-10-01.md) | Forest Cabin / 林清轩 | Consumer Staples | Small-Cap | 2026-10-01 | HK$49.58 | HK$94.12 | 66, Buy | 73, Buy | 22/30 |
-| [APR](Consumer-Staples/4-Large-Cap/APR/APR-2026-10-01.md) | APR Corp. / 에이피알 (Medicube) | Consumer Staples | Large-Cap | 2026-10-01 | ₩380000 | ₩357447 | 70, Buy | 71, Buy | 24/30 |
+| [2657](Consumer-Staples/2-Small-Cap/2657/2657-2026-10-01.md) | Forest Cabin / 林清轩 | Consumer Staples | Small-Cap | 2026-10-01 | HK$49.58 | HK$94.12 | 65, Buy | 73, Buy | 21/30 |
+| [APR](Consumer-Staples/4-Large-Cap/APR/APR-2026-10-01.md) | APR Corp. / 에이피알 (Medicube) | Consumer Staples | Large-Cap | 2026-10-01 | ₩380000 | ₩357447 | 67, Buy | 71, Buy | 24/30 |
 | [BRUT](Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) | Bruton Limited | Energy | Micro-Cap | 2026-10-01 | NOK 48.40 | NOK 20.6 | 52, Hold | 42, Hold | 9/30 |
 | [AT](Energy/2-Small-Cap/AT/AT-2026-10-01.md) | Ashtead Technology Holdings | Energy | Small-Cap | 2026-10-01 | £5.80 | £5.80 | 52, Hold | 58, Hold | 13/30 |
 | [A052400](Financials/2-Small-Cap/A052400/A052400-2026-10-01.md) | Kona I / 코나아이 | Financials | Small-Cap | 2026-10-01 | ₩37650 | ₩59498 | 67, Buy | 68, Buy | 27/30 |
@@ -45,7 +45,7 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | [KVHI](Information-Technology/1-Micro-Cap/KVHI/KVHI-2026-10-01.md) | KVH Industries | Information Technology | Micro-Cap | 2026-10-01 | $7.21 | $9.50 | 61, Buy | 60, Hold | 15/30 |
 | [TOYO](Information-Technology/1-Micro-Cap/TOYO/TOYO-2026-10-01.md) | TOYO Co., Ltd | Information Technology | Micro-Cap | 2026-10-01 | $4.24 | $9.13 | 54, Hold | 51, Hold | 17/30 |
 | [2313](Information-Technology/3-Mid-Cap/2313/2313-2026-10-01.md) | Compeq Manufacturing / 華通電腦 | Information Technology | Mid-Cap | 2026-10-01 | NT$223.0 | NT$145.63 | 55, Hold | 58, Hold | 18/30 |
-| [3036](Information-Technology/3-Mid-Cap/3036/3036-2026-10-01.md) | WT Microelectronics / 文曄科技 | Information Technology | Mid-Cap | 2026-10-01 | NT$204.0 | NT$297.86 | 66, Buy | 58, Hold | 23/30 |
+| [3036](Information-Technology/3-Mid-Cap/3036/3036-2026-10-01.md) | WT Microelectronics / 文曄科技 | Information Technology | Mid-Cap | 2026-10-01 | NT$204.0 | NT$297.86 | 66, Buy | 58, Hold | 22/30 |
 | [688213](Information-Technology/3-Mid-Cap/688213/688213-2026-10-01.md) | SmartSens Technology / 思特威 | Information Technology | Mid-Cap | 2026-10-01 | CN¥92.03 | CN¥69.09 | 58, Hold | 57, Hold | 17/30 |
 | [001389](Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md) | Delton Technology (Guangzhou) / 广合科技 | Information Technology | Large-Cap | 2026-10-01 | CN¥177.59 | CN¥114 | 55, Hold | 58, Hold | 19/30 |
 | [002463](Information-Technology/4-Large-Cap/002463/002463-2026-10-01.md) | WUS Printed Circuit / 沪电股份 | Information Technology | Large-Cap | 2026-10-01 | CN¥127.8 | CN¥62.55 | 60, Hold | 66, Buy | 26/30 |
@@ -56,7 +56,7 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | [300502](Information-Technology/4-Large-Cap/300502/300502-2026-10-01.md) | Eoptolink / 新易盛 | Information Technology | Large-Cap | 2026-10-01 | CN¥455.8 | CN¥209 | 51, Hold | 56, Hold | 21/30 |
 | [6770](Information-Technology/4-Large-Cap/6770/6770-2026-10-01.md) | Powerchip Semiconductor Manufacturing (PSMC) / 力積電 | Information Technology | Large-Cap | 2026-10-01 | NT$73.5 | NT$28.73 | 55, Hold | 45, Hold | 15/30 |
 | [A005930](Information-Technology/5-Mega-Cap/A005930/A005930-2026-10-01.md) | Samsung Electronics | Information Technology | Mega-Cap | 2026-10-01 | ₩276000 | ₩251707 | 65, Buy | 68, Buy | 27/30 |
-| [AVGO](Information-Technology/5-Mega-Cap/AVGO/AVGO-2026-10-01.md) | Broadcom | Information Technology | Mega-Cap | 2026-10-01 | $351.19 | $336.78 | 70, Buy | 75, Buy | 22/30 |
+| [AVGO](Information-Technology/5-Mega-Cap/AVGO/AVGO-2026-10-01.md) | Broadcom | Information Technology | Mega-Cap | 2026-10-01 | $351.19 | $336.78 | 70, Buy | 75, Buy | 25/30 |
 | [NVDA](Information-Technology/5-Mega-Cap/NVDA/NVDA-2026-10-01.md) | NVIDIA | Information Technology | Mega-Cap | 2026-10-01 | $228.38 | $194.20 | 70, Buy | 80, Buy | 26/30 |
 | [AR1](Materials/1-Micro-Cap/AR1/AR1-2026-10-01.md) | Austral Resources Australia | Materials | Micro-Cap | 2026-10-01 | A$0.065 | A$0.12 | 59, Hold | 58, Hold | 13/30 |
 | [002810](Materials/2-Small-Cap/002810/002810-2026-10-01.md) | Shandong Head / 山东赫达 | Materials | Small-Cap | 2026-10-01 | CN¥21.54 | CN¥18.75 | 58, Hold | 57, Hold | 16/30 |
