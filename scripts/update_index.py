@@ -31,6 +31,7 @@ REQUIRED = ("ticker", "company", "sector", "size_tier", "analysis_date", "price"
             "score_12m", "rating_12m", "score_5y", "rating_5y", "snowflake")
 REPORT_NAME = re.compile(r"^([A-Z0-9.\-]+)-(\d{4}-\d{2}-\d{2})\.md$")
 START, END = "<!-- coverage:start -->", "<!-- coverage:end -->"
+CURRENCY_PREFIX = {"USD": "$", "AUD": "A$", "CAD": "C$", "GBP": "£", "EUR": "€"}  # optional `currency` field, default USD
 
 
 def rating(score):
@@ -139,10 +140,11 @@ def render_coverage(reports):
         "|---|---|---|---|---|---|---|---|---|---|",
     ]
     for r in rows:
-        fv = f"${r['fair_value_base']}" if r.get("fair_value_base") else "—"
+        cur = CURRENCY_PREFIX.get(r.get("currency", "USD"), r.get("currency", "") + " ")
+        fv = f"{cur}{r['fair_value_base']}" if r.get("fair_value_base") else "—"
         lines.append(
             f"| [{r['ticker']}]({r['path']}) | {r['company']} | {label(r['sector'])} | {label(r['size_tier'])} "
-            f"| {r['analysis_date']} | ${r['price']} | {fv} | {r['score_12m']}, {r['rating_12m']} "
+            f"| {r['analysis_date']} | {cur}{r['price']} | {fv} | {r['score_12m']}, {r['rating_12m']} "
             f"| {r['score_5y']}, {r['rating_5y']} | {r['snowflake']} |"
         )
     lines.append(END)

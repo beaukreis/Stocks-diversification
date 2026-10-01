@@ -23,6 +23,7 @@ The table below is generated from each stock's latest report. Don't edit it by h
 |---|---|---|---|---|---|---|---|---|---|
 | [MDGL](Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) | Madrigal Pharmaceuticals | Health Care | Large-Cap | 2026-10-01 | $503.96 | $288 | 58, Hold | 57, Hold | 14/30 |
 | [GUER](Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) | Guerrilla RF | Information Technology | Micro-Cap | 2026-10-01 | $4.07 | $4.12 | 59, Hold | 47, Hold | 11/30 |
+| [WAF](Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md) | West African Resources | Materials | Mid-Cap | 2026-10-01 | A$3.66 | A$5.05 | 64, Buy | 59, Hold | 22/30 |
 <!-- coverage:end -->
 
 Rating bands: 1–20 Strong Sell · 21–40 Sell · 41–60 Hold · 61–80 Buy · 81–100 Strong Buy

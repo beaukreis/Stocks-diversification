@@ -18,7 +18,7 @@ After the push, tell the owner whether the top 10 changed: what entered, what le
 
 - **Path:** `<Sector>/<Size-tier>/<TICKER>/<TICKER>-YYYY-MM-DD.md`
   - `<Sector>` is one of the 11 GICS sector folders.
-  - `<Size-tier>` is based on **basic** market cap on the analysis date: `1-Micro-Cap` under $300M, `2-Small-Cap` $300M–2B, `3-Mid-Cap` $2–10B, `4-Large-Cap` $10–200B, `5-Mega-Cap` over $200B.
+  - `<Size-tier>` is based on **basic** market cap on the analysis date, converted to US$ for non-US listings: `1-Micro-Cap` under $300M, `2-Small-Cap` $300M–2B, `3-Mid-Cap` $2–10B, `4-Large-Cap` $10–200B, `5-Mega-Cap` over $200B.
 - **Housekeeping:**
   - Delete the folder's `.gitkeep` once it has real content.
   - If a stock has moved to a different tier, `git mv` its whole ticker folder.
@@ -30,6 +30,7 @@ After the push, tell the owner whether the top 10 changed: what entered, what le
   ticker: GUER
   company: Guerrilla RF
   exchange: OTCQX
+  currency: USD                       # optional, default USD; price and fair value are in this currency (e.g. AUD for ASX)
   sector: Information-Technology      # must equal the sector folder name
   size_tier: 1-Micro-Cap              # must equal the tier folder name
   analysis_date: 2026-10-01           # must equal the date in the file name
