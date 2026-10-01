@@ -5,7 +5,7 @@
 Stocks are ranked purely by their **12-month investment score**, across all sectors and sizes.
 Only each stock's latest report counts. This folder holds no copies of reports. Follow the location link to read the full analysis.
 
-**Slots filled:** 7 of 10 · **Stocks covered:** 7
+**Slots filled:** 8 of 10 · **Stocks covered:** 8
 
 | Rank | Ticker | Company | 12-month score | Rating | Analysis date | Location |
 |---|---|---|---|---|---|---|
@@ -13,9 +13,10 @@ Only each stock's latest report counts. This folder holds no copies of reports. 
 | 2 | **2344** | Winbond Electronics | 62/100 | Buy | 2026-10-01 | [Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md](../Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md) |
 | 3 | **GUER** | Guerrilla RF | 59/100 | Hold | 2026-10-01 | [Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md](../Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) |
 | 4 | **MDGL** | Madrigal Pharmaceuticals | 58/100 | Hold | 2026-10-01 | [Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md](../Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) |
-| 5 | **601567** | Ningbo Sanxing Medical Electric (Sanxing Electric) | 53/100 | Hold | 2026-10-01 | [Industrials/3-Mid-Cap/601567/601567-2026-10-01.md](../Industrials/3-Mid-Cap/601567/601567-2026-10-01.md) |
-| 6 | **BRUT** | Bruton Limited | 52/100 | Hold | 2026-10-01 | [Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md](../Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) |
-| 7 | **6603** | IFBH Limited | 44/100 | Hold | 2026-10-01 | [Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md](../Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md) |
+| 5 | **001389** | Delton Technology (Guangzhou) / 广合科技 | 55/100 | Hold | 2026-10-01 | [Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md](../Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md) |
+| 6 | **601567** | Ningbo Sanxing Medical Electric (Sanxing Electric) | 53/100 | Hold | 2026-10-01 | [Industrials/3-Mid-Cap/601567/601567-2026-10-01.md](../Industrials/3-Mid-Cap/601567/601567-2026-10-01.md) |
+| 7 | **BRUT** | Bruton Limited | 52/100 | Hold | 2026-10-01 | [Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md](../Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) |
+| 8 | **6603** | IFBH Limited | 44/100 | Hold | 2026-10-01 | [Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md](../Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md) |
 
 Ties are broken by the 5-year score, then by the most recent analysis.
 ⚠️ marks a report older than 90 days. Its 12-month view may be out of date and is worth refreshing.
