@@ -21,6 +21,7 @@ The table below is generated from each stock's latest report. Don't edit it by h
 <!-- coverage:start -->
 | Ticker | Company | Sector | Size | Analysis date | Price | Base fair value | 12-month score | 5-year score | Snowflake |
 |---|---|---|---|---|---|---|---|---|---|
+| [2543](Consumer-Discretionary/1-Micro-Cap/2543/2543-2026-10-01.md) | DAHON TECH (Shenzhen) / 大行科工 | Consumer Discretionary | Micro-Cap | 2026-10-01 | HK$27.12 | HK$70.99 | 63, Buy | 67, Buy | 25/30 |
 | [6603](Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md) | IFBH Limited | Consumer Staples | Micro-Cap | 2026-10-01 | HK$4.14 | HK$9.00 | 44, Hold | 59, Hold | 17/30 |
 | [BRUT](Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) | Bruton Limited | Energy | Micro-Cap | 2026-10-01 | NOK 48.40 | NOK 20.6 | 52, Hold | 42, Hold | 9/30 |
 | [MDGL](Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) | Madrigal Pharmaceuticals | Health Care | Large-Cap | 2026-10-01 | $503.96 | $288 | 58, Hold | 57, Hold | 14/30 |
