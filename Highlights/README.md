@@ -9,16 +9,16 @@ Only each stock's latest report counts. This folder holds no copies of reports. 
 
 | Rank | Ticker | Company | 12-month score | Rating | Analysis date | Location |
 |---|---|---|---|---|---|---|
-| 1 | **AVGO** | Broadcom | 70/100 | Buy | 2026-10-01 | [Information-Technology/5-Mega-Cap/AVGO/AVGO-2026-10-01.md](../Information-Technology/5-Mega-Cap/AVGO/AVGO-2026-10-01.md) |
-| 2 | **APR** | APR Corp. / 에이피알 (Medicube) | 70/100 | Buy | 2026-10-01 | [Consumer-Staples/4-Large-Cap/APR/APR-2026-10-01.md](../Consumer-Staples/4-Large-Cap/APR/APR-2026-10-01.md) |
-| 3 | **NVDA** | NVIDIA | 69/100 | Buy | 2026-10-01 | [Information-Technology/5-Mega-Cap/NVDA/NVDA-2026-10-01.md](../Information-Technology/5-Mega-Cap/NVDA/NVDA-2026-10-01.md) |
+| 1 | **NVDA** | NVIDIA | 70/100 | Buy | 2026-10-01 | [Information-Technology/5-Mega-Cap/NVDA/NVDA-2026-10-01.md](../Information-Technology/5-Mega-Cap/NVDA/NVDA-2026-10-01.md) |
+| 2 | **AVGO** | Broadcom | 70/100 | Buy | 2026-10-01 | [Information-Technology/5-Mega-Cap/AVGO/AVGO-2026-10-01.md](../Information-Technology/5-Mega-Cap/AVGO/AVGO-2026-10-01.md) |
+| 3 | **APR** | APR Corp. / 에이피알 (Medicube) | 70/100 | Buy | 2026-10-01 | [Consumer-Staples/4-Large-Cap/APR/APR-2026-10-01.md](../Consumer-Staples/4-Large-Cap/APR/APR-2026-10-01.md) |
 | 4 | **KNT** | K92 Mining | 68/100 | Buy | 2026-10-01 | [Materials/3-Mid-Cap/KNT/KNT-2026-10-01.md](../Materials/3-Mid-Cap/KNT/KNT-2026-10-01.md) |
-| 5 | **A005930** | Samsung Electronics | 68/100 | Buy | 2026-10-01 | [Information-Technology/5-Mega-Cap/A005930/A005930-2026-10-01.md](../Information-Technology/5-Mega-Cap/A005930/A005930-2026-10-01.md) |
-| 6 | **A052400** | Kona I / 코나아이 | 67/100 | Buy | 2026-10-01 | [Financials/2-Small-Cap/A052400/A052400-2026-10-01.md](../Financials/2-Small-Cap/A052400/A052400-2026-10-01.md) |
-| 7 | **2209** | YesAsia Holdings | 66/100 | Buy | 2026-10-01 | [Consumer-Discretionary/1-Micro-Cap/2209/2209-2026-10-01.md](../Consumer-Discretionary/1-Micro-Cap/2209/2209-2026-10-01.md) |
-| 8 | **3036** | WT Microelectronics / 文曄科技 | 66/100 | Buy | 2026-10-01 | [Information-Technology/3-Mid-Cap/3036/3036-2026-10-01.md](../Information-Technology/3-Mid-Cap/3036/3036-2026-10-01.md) |
-| 9 | **2657** | Forest Cabin / 林清轩 | 64/100 | Buy | 2026-10-01 | [Consumer-Staples/2-Small-Cap/2657/2657-2026-10-01.md](../Consumer-Staples/2-Small-Cap/2657/2657-2026-10-01.md) |
-| 10 | **WAF** | West African Resources | 64/100 | Buy | 2026-10-01 | [Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md](../Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md) |
+| 5 | **A052400** | Kona I / 코나아이 | 67/100 | Buy | 2026-10-01 | [Financials/2-Small-Cap/A052400/A052400-2026-10-01.md](../Financials/2-Small-Cap/A052400/A052400-2026-10-01.md) |
+| 6 | **2657** | Forest Cabin / 林清轩 | 66/100 | Buy | 2026-10-01 | [Consumer-Staples/2-Small-Cap/2657/2657-2026-10-01.md](../Consumer-Staples/2-Small-Cap/2657/2657-2026-10-01.md) |
+| 7 | **3036** | WT Microelectronics / 文曄科技 | 66/100 | Buy | 2026-10-01 | [Information-Technology/3-Mid-Cap/3036/3036-2026-10-01.md](../Information-Technology/3-Mid-Cap/3036/3036-2026-10-01.md) |
+| 8 | **A005930** | Samsung Electronics | 65/100 | Buy | 2026-10-01 | [Information-Technology/5-Mega-Cap/A005930/A005930-2026-10-01.md](../Information-Technology/5-Mega-Cap/A005930/A005930-2026-10-01.md) |
+| 9 | **WAF** | West African Resources | 64/100 | Buy | 2026-10-01 | [Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md](../Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md) |
+| 10 | **2543** | DAHON TECH (Shenzhen) / 大行科工 | 63/100 | Buy | 2026-10-01 | [Consumer-Discretionary/1-Micro-Cap/2543/2543-2026-10-01.md](../Consumer-Discretionary/1-Micro-Cap/2543/2543-2026-10-01.md) |
 
 Ties are broken by the 5-year score, then by the most recent analysis.
 ⚠️ marks a report older than 90 days. Its 12-month view may be out of date and is worth refreshing.
