@@ -26,7 +26,11 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | [BRUT](Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) | Bruton Limited | Energy | Micro-Cap | 2026-10-01 | NOK 48.40 | NOK 20.6 | 52, Hold | 42, Hold | 9/30 |
 | [MDGL](Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) | Madrigal Pharmaceuticals | Health Care | Large-Cap | 2026-10-01 | $503.96 | $288 | 58, Hold | 57, Hold | 14/30 |
 | [002518](Industrials/3-Mid-Cap/002518/002518-2026-10-01.md) | Shenzhen Kstar Science & Technology / 科士达 | Industrials | Mid-Cap | 2026-10-01 | CN¥35.84 | CN¥28.33 | 50, Hold | 59, Hold | 16/30 |
+| [300438](Industrials/3-Mid-Cap/300438/300438-2026-10-01.md) | Guangzhou Great Power Energy & Technology / 鹏辉能源 | Industrials | Mid-Cap | 2026-10-01 | CN¥62.33 | CN¥37.19 | 60, Hold | 46, Hold | 16/30 |
+| [301603](Industrials/3-Mid-Cap/301603/301603-2026-10-01.md) | Jirfine Intelligent Equipment / 乔锋智能 | Industrials | Mid-Cap | 2026-10-01 | CN¥120.71 | CN¥88.04 | 58, Hold | 57, Hold | 18/30 |
 | [601567](Industrials/3-Mid-Cap/601567/601567-2026-10-01.md) | Ningbo Sanxing Medical Electric (Sanxing Electric) | Industrials | Mid-Cap | 2026-10-01 | CN¥15.40 | CN¥16.52 | 53, Hold | 59, Hold | 16/30 |
+| [603929](Industrials/3-Mid-Cap/603929/603929-2026-10-01.md) | L&K Engineering (Suzhou) / 亚翔集成 | Industrials | Mid-Cap | 2026-10-01 | CN¥136.82 | CN¥73.93 | 59, Hold | 59, Hold | 22/30 |
+| [688411](Industrials/3-Mid-Cap/688411/688411-2026-10-01.md) | Beijing HyperStrong Technology / 海博思创 | Industrials | Mid-Cap | 2026-10-01 | CN¥170.78 | CN¥150.27 | 60, Hold | 56, Hold | 17/30 |
 | [GUER](Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) | Guerrilla RF | Information Technology | Micro-Cap | 2026-10-01 | $4.07 | $4.12 | 59, Hold | 47, Hold | 11/30 |
 | [KVHI](Information-Technology/1-Micro-Cap/KVHI/KVHI-2026-10-01.md) | KVH Industries | Information Technology | Micro-Cap | 2026-10-01 | $7.21 | $9.50 | 61, Buy | 60, Hold | 15/30 |
 | [2313](Information-Technology/3-Mid-Cap/2313/2313-2026-10-01.md) | Compeq Manufacturing / 華通電腦 | Information Technology | Mid-Cap | 2026-10-01 | NT$223.0 | NT$145.63 | 55, Hold | 58, Hold | 18/30 |
@@ -44,6 +48,7 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | [AVGO](Information-Technology/5-Mega-Cap/AVGO/AVGO-2026-10-01.md) | Broadcom | Information Technology | Mega-Cap | 2026-10-01 | $351.19 | $336.78 | 70, Buy | 75, Buy | 22/30 |
 | [NVDA](Information-Technology/5-Mega-Cap/NVDA/NVDA-2026-10-01.md) | NVIDIA | Information Technology | Mega-Cap | 2026-10-01 | $228.38 | $194.20 | 69, Buy | 79, Buy | 26/30 |
 | [002810](Materials/2-Small-Cap/002810/002810-2026-10-01.md) | Shandong Head / 山东赫达 | Materials | Small-Cap | 2026-10-01 | CN¥21.54 | CN¥18.75 | 58, Hold | 57, Hold | 16/30 |
+| [002738](Materials/3-Mid-Cap/002738/002738-2026-10-01.md) | Sinomine Resource Group / 中矿资源 | Materials | Mid-Cap | 2026-10-01 | CN¥47.89 | CN¥33.09 | 60, Hold | 56, Hold | 18/30 |
 | [WAF](Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md) | West African Resources | Materials | Mid-Cap | 2026-10-01 | A$3.66 | A$5.05 | 64, Buy | 59, Hold | 22/30 |
 <!-- coverage:end -->
 
