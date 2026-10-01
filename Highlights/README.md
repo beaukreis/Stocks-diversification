@@ -5,19 +5,20 @@
 Stocks are ranked purely by their **12-month investment score**, across all sectors and sizes.
 Only each stock's latest report counts. This folder holds no copies of reports. Follow the location link to read the full analysis.
 
-**Slots filled:** 9 of 10 · **Stocks covered:** 9
+**Slots filled:** 10 of 10 · **Stocks covered:** 12
 
 | Rank | Ticker | Company | 12-month score | Rating | Analysis date | Location |
 |---|---|---|---|---|---|---|
 | 1 | **WAF** | West African Resources | 64/100 | Buy | 2026-10-01 | [Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md](../Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md) |
 | 2 | **2344** | Winbond Electronics | 62/100 | Buy | 2026-10-01 | [Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md](../Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md) |
 | 3 | **KVHI** | KVH Industries | 61/100 | Buy | 2026-10-01 | [Information-Technology/1-Micro-Cap/KVHI/KVHI-2026-10-01.md](../Information-Technology/1-Micro-Cap/KVHI/KVHI-2026-10-01.md) |
-| 4 | **GUER** | Guerrilla RF | 59/100 | Hold | 2026-10-01 | [Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md](../Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) |
-| 5 | **MDGL** | Madrigal Pharmaceuticals | 58/100 | Hold | 2026-10-01 | [Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md](../Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) |
-| 6 | **001389** | Delton Technology (Guangzhou) / 广合科技 | 55/100 | Hold | 2026-10-01 | [Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md](../Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md) |
-| 7 | **601567** | Ningbo Sanxing Medical Electric (Sanxing Electric) | 53/100 | Hold | 2026-10-01 | [Industrials/3-Mid-Cap/601567/601567-2026-10-01.md](../Industrials/3-Mid-Cap/601567/601567-2026-10-01.md) |
-| 8 | **BRUT** | Bruton Limited | 52/100 | Hold | 2026-10-01 | [Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md](../Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) |
-| 9 | **6603** | IFBH Limited | 44/100 | Hold | 2026-10-01 | [Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md](../Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md) |
+| 4 | **300308** | Zhongji Innolight / 中际旭创 | 59/100 | Hold | 2026-10-01 | [Information-Technology/4-Large-Cap/300308/300308-2026-10-01.md](../Information-Technology/4-Large-Cap/300308/300308-2026-10-01.md) |
+| 5 | **GUER** | Guerrilla RF | 59/100 | Hold | 2026-10-01 | [Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md](../Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) |
+| 6 | **002810** | Shandong Head / 山东赫达 | 58/100 | Hold | 2026-10-01 | [Materials/2-Small-Cap/002810/002810-2026-10-01.md](../Materials/2-Small-Cap/002810/002810-2026-10-01.md) |
+| 7 | **MDGL** | Madrigal Pharmaceuticals | 58/100 | Hold | 2026-10-01 | [Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md](../Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) |
+| 8 | **001389** | Delton Technology (Guangzhou) / 广合科技 | 55/100 | Hold | 2026-10-01 | [Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md](../Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md) |
+| 9 | **601567** | Ningbo Sanxing Medical Electric (Sanxing Electric) | 53/100 | Hold | 2026-10-01 | [Industrials/3-Mid-Cap/601567/601567-2026-10-01.md](../Industrials/3-Mid-Cap/601567/601567-2026-10-01.md) |
+| 10 | **BRUT** | Bruton Limited | 52/100 | Hold | 2026-10-01 | [Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md](../Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) |
 
 Ties are broken by the 5-year score, then by the most recent analysis.
 ⚠️ marks a report older than 90 days. Its 12-month view may be out of date and is worth refreshing.
