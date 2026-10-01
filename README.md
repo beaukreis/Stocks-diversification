@@ -21,8 +21,11 @@ The table below is generated from each stock's latest report. Don't edit it by h
 <!-- coverage:start -->
 | Ticker | Company | Sector | Size | Analysis date | Price | Base fair value | 12-month score | 5-year score | Snowflake |
 |---|---|---|---|---|---|---|---|---|---|
+| [2209](Consumer-Discretionary/1-Micro-Cap/2209/2209-2026-10-01.md) | YesAsia Holdings | Consumer Discretionary | Micro-Cap | 2026-10-01 | HK$3.65 | HK$7.40 | 66, Buy | 63, Buy | 25/30 |
+| [2508](Consumer-Discretionary/1-Micro-Cap/2508/2508-2026-10-01.md) | Saint Bella / 圣贝拉 | Consumer Discretionary | Micro-Cap | 2026-10-01 | HK$3.175 | HK$5.31 | 58, Hold | 57, Hold | 18/30 |
 | [2543](Consumer-Discretionary/1-Micro-Cap/2543/2543-2026-10-01.md) | DAHON TECH (Shenzhen) / 大行科工 | Consumer Discretionary | Micro-Cap | 2026-10-01 | HK$27.12 | HK$70.99 | 63, Buy | 67, Buy | 25/30 |
 | [6603](Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md) | IFBH Limited | Consumer Staples | Micro-Cap | 2026-10-01 | HK$4.14 | HK$9.00 | 44, Hold | 59, Hold | 17/30 |
+| [2657](Consumer-Staples/2-Small-Cap/2657/2657-2026-10-01.md) | Forest Cabin / 林清轩 | Consumer Staples | Small-Cap | 2026-10-01 | HK$56.0 | HK$94.12 | 64, Buy | 72, Buy | 22/30 |
 | [BRUT](Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) | Bruton Limited | Energy | Micro-Cap | 2026-10-01 | NOK 48.40 | NOK 20.6 | 52, Hold | 42, Hold | 9/30 |
 | [MDGL](Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) | Madrigal Pharmaceuticals | Health Care | Large-Cap | 2026-10-01 | $503.96 | $288 | 58, Hold | 57, Hold | 14/30 |
 | [002518](Industrials/3-Mid-Cap/002518/002518-2026-10-01.md) | Shenzhen Kstar Science & Technology / 科士达 | Industrials | Mid-Cap | 2026-10-01 | CN¥35.84 | CN¥28.33 | 50, Hold | 59, Hold | 16/30 |
@@ -49,6 +52,7 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | [NVDA](Information-Technology/5-Mega-Cap/NVDA/NVDA-2026-10-01.md) | NVIDIA | Information Technology | Mega-Cap | 2026-10-01 | $228.38 | $194.20 | 69, Buy | 79, Buy | 26/30 |
 | [002810](Materials/2-Small-Cap/002810/002810-2026-10-01.md) | Shandong Head / 山东赫达 | Materials | Small-Cap | 2026-10-01 | CN¥21.54 | CN¥18.75 | 58, Hold | 57, Hold | 16/30 |
 | [002738](Materials/3-Mid-Cap/002738/002738-2026-10-01.md) | Sinomine Resource Group / 中矿资源 | Materials | Mid-Cap | 2026-10-01 | CN¥47.89 | CN¥33.09 | 60, Hold | 56, Hold | 18/30 |
+| [3858](Materials/3-Mid-Cap/3858/3858-2026-10-01.md) | Jiaxin International Resources / 佳鑫国际资源 | Materials | Mid-Cap | 2026-10-01 | HK$46.9 | HK$53.36 | 63, Buy | 63, Buy | 25/30 |
 | [WAF](Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md) | West African Resources | Materials | Mid-Cap | 2026-10-01 | A$3.66 | A$5.05 | 64, Buy | 59, Hold | 22/30 |
 <!-- coverage:end -->
 
