@@ -30,8 +30,12 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | [KVHI](Information-Technology/1-Micro-Cap/KVHI/KVHI-2026-10-01.md) | KVH Industries | Information Technology | Micro-Cap | 2026-10-01 | $7.21 | $9.50 | 61, Buy | 60, Hold | 15/30 |
 | [001389](Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md) | Delton Technology (Guangzhou) / 广合科技 | Information Technology | Large-Cap | 2026-10-01 | CN¥177.59 | CN¥114 | 55, Hold | 58, Hold | 19/30 |
 | [2344](Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md) | Winbond Electronics | Information Technology | Large-Cap | 2026-10-01 | NT$180.5 | NT$147 | 62, Buy | 50, Hold | 22/30 |
+| [2408](Information-Technology/4-Large-Cap/2408/2408-2026-10-01.md) | Nanya Technology | Information Technology | Large-Cap | 2026-10-01 | NT$490.0 | NT$249.68 | 58, Hold | 45, Hold | 22/30 |
 | [300308](Information-Technology/4-Large-Cap/300308/300308-2026-10-01.md) | Zhongji Innolight / 中际旭创 | Information Technology | Large-Cap | 2026-10-01 | CN¥808.44 | CN¥553 | 59, Hold | 64, Buy | 24/30 |
 | [300502](Information-Technology/4-Large-Cap/300502/300502-2026-10-01.md) | Eoptolink / 新易盛 | Information Technology | Large-Cap | 2026-10-01 | CN¥455.8 | CN¥209 | 51, Hold | 56, Hold | 21/30 |
+| [A005930](Information-Technology/5-Mega-Cap/A005930/A005930-2026-10-01.md) | Samsung Electronics | Information Technology | Mega-Cap | 2026-10-01 | ₩276000 | ₩251707 | 68, Buy | 68, Buy | 27/30 |
+| [AVGO](Information-Technology/5-Mega-Cap/AVGO/AVGO-2026-10-01.md) | Broadcom | Information Technology | Mega-Cap | 2026-10-01 | $351.19 | $336.78 | 70, Buy | 75, Buy | 22/30 |
+| [NVDA](Information-Technology/5-Mega-Cap/NVDA/NVDA-2026-10-01.md) | NVIDIA | Information Technology | Mega-Cap | 2026-10-01 | $228.38 | $194.20 | 69, Buy | 79, Buy | 26/30 |
 | [002810](Materials/2-Small-Cap/002810/002810-2026-10-01.md) | Shandong Head / 山东赫达 | Materials | Small-Cap | 2026-10-01 | CN¥21.54 | CN¥18.75 | 58, Hold | 57, Hold | 16/30 |
 | [WAF](Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md) | West African Resources | Materials | Mid-Cap | 2026-10-01 | A$3.66 | A$5.05 | 64, Buy | 59, Hold | 22/30 |
 <!-- coverage:end -->
