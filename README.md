@@ -21,6 +21,7 @@ The table below is generated from each stock's latest report. Don't edit it by h
 <!-- coverage:start -->
 | Ticker | Company | Sector | Size | Analysis date | Price | Base fair value | 12-month score | 5-year score | Snowflake |
 |---|---|---|---|---|---|---|---|---|---|
+| [MDGL](Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) | Madrigal Pharmaceuticals | Health Care | Large-Cap | 2026-10-01 | $503.96 | $288 | 58, Hold | 57, Hold | 14/30 |
 | [GUER](Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) | Guerrilla RF | Information Technology | Micro-Cap | 2026-10-01 | $4.07 | $4.12 | 59, Hold | 47, Hold | 11/30 |
 <!-- coverage:end -->
 
