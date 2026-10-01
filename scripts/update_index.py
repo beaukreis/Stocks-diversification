@@ -31,7 +31,7 @@ REQUIRED = ("ticker", "company", "sector", "size_tier", "analysis_date", "price"
             "score_12m", "rating_12m", "score_5y", "rating_5y", "snowflake")
 REPORT_NAME = re.compile(r"^([A-Z0-9.\-]+)-(\d{4}-\d{2}-\d{2})\.md$")
 START, END = "<!-- coverage:start -->", "<!-- coverage:end -->"
-CURRENCY_PREFIX = {"USD": "$", "AUD": "A$", "TWD": "NT$", "CNY": "CN¥", "HKD": "HK$", "CAD": "C$", "GBP": "£", "EUR": "€"}  # optional `currency` field, default USD
+CURRENCY_PREFIX = {"USD": "$", "AUD": "A$", "TWD": "NT$", "CNY": "CN¥", "HKD": "HK$", "NOK": "NOK ", "CAD": "C$", "GBP": "£", "EUR": "€"}  # optional `currency` field, default USD
 
 
 def rating(score):

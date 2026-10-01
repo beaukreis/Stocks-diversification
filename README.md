@@ -22,6 +22,7 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | Ticker | Company | Sector | Size | Analysis date | Price | Base fair value | 12-month score | 5-year score | Snowflake |
 |---|---|---|---|---|---|---|---|---|---|
 | [6603](Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md) | IFBH Limited | Consumer Staples | Micro-Cap | 2026-10-01 | HK$4.14 | HK$9.00 | 44, Hold | 59, Hold | 17/30 |
+| [BRUT](Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) | Bruton Limited | Energy | Micro-Cap | 2026-10-01 | NOK 48.40 | NOK 20.6 | 52, Hold | 42, Hold | 9/30 |
 | [MDGL](Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) | Madrigal Pharmaceuticals | Health Care | Large-Cap | 2026-10-01 | $503.96 | $288 | 58, Hold | 57, Hold | 14/30 |
 | [601567](Industrials/3-Mid-Cap/601567/601567-2026-10-01.md) | Ningbo Sanxing Medical Electric (Sanxing Electric) | Industrials | Mid-Cap | 2026-10-01 | CN¥15.40 | CN¥16.52 | 53, Hold | 59, Hold | 16/30 |
 | [GUER](Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) | Guerrilla RF | Information Technology | Micro-Cap | 2026-10-01 | $4.07 | $4.12 | 59, Hold | 47, Hold | 11/30 |
