@@ -5,13 +5,14 @@
 Stocks are ranked purely by their **12-month investment score**, across all sectors and sizes.
 Only each stock's latest report counts. This folder holds no copies of reports. Follow the location link to read the full analysis.
 
-**Slots filled:** 3 of 10 · **Stocks covered:** 3
+**Slots filled:** 4 of 10 · **Stocks covered:** 4
 
 | Rank | Ticker | Company | 12-month score | Rating | Analysis date | Location |
 |---|---|---|---|---|---|---|
 | 1 | **WAF** | West African Resources | 64/100 | Buy | 2026-10-01 | [Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md](../Materials/3-Mid-Cap/WAF/WAF-2026-10-01.md) |
-| 2 | **GUER** | Guerrilla RF | 59/100 | Hold | 2026-10-01 | [Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md](../Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) |
-| 3 | **MDGL** | Madrigal Pharmaceuticals | 58/100 | Hold | 2026-10-01 | [Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md](../Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) |
+| 2 | **2344** | Winbond Electronics | 62/100 | Buy | 2026-10-01 | [Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md](../Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md) |
+| 3 | **GUER** | Guerrilla RF | 59/100 | Hold | 2026-10-01 | [Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md](../Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) |
+| 4 | **MDGL** | Madrigal Pharmaceuticals | 58/100 | Hold | 2026-10-01 | [Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md](../Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) |
 
 Ties are broken by the 5-year score, then by the most recent analysis.
 ⚠️ marks a report older than 90 days. Its 12-month view may be out of date and is worth refreshing.
