@@ -25,15 +25,19 @@ The table below is generated from each stock's latest report. Don't edit it by h
 | [6603](Consumer-Staples/1-Micro-Cap/6603/6603-2026-10-01.md) | IFBH Limited | Consumer Staples | Micro-Cap | 2026-10-01 | HK$4.14 | HK$9.00 | 44, Hold | 59, Hold | 17/30 |
 | [BRUT](Energy/1-Micro-Cap/BRUT/BRUT-2026-10-01.md) | Bruton Limited | Energy | Micro-Cap | 2026-10-01 | NOK 48.40 | NOK 20.6 | 52, Hold | 42, Hold | 9/30 |
 | [MDGL](Health-Care/4-Large-Cap/MDGL/MDGL-2026-10-01.md) | Madrigal Pharmaceuticals | Health Care | Large-Cap | 2026-10-01 | $503.96 | $288 | 58, Hold | 57, Hold | 14/30 |
+| [002518](Industrials/3-Mid-Cap/002518/002518-2026-10-01.md) | Shenzhen Kstar Science & Technology / 科士达 | Industrials | Mid-Cap | 2026-10-01 | CN¥35.84 | CN¥28.33 | 50, Hold | 59, Hold | 16/30 |
 | [601567](Industrials/3-Mid-Cap/601567/601567-2026-10-01.md) | Ningbo Sanxing Medical Electric (Sanxing Electric) | Industrials | Mid-Cap | 2026-10-01 | CN¥15.40 | CN¥16.52 | 53, Hold | 59, Hold | 16/30 |
 | [GUER](Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) | Guerrilla RF | Information Technology | Micro-Cap | 2026-10-01 | $4.07 | $4.12 | 59, Hold | 47, Hold | 11/30 |
 | [KVHI](Information-Technology/1-Micro-Cap/KVHI/KVHI-2026-10-01.md) | KVH Industries | Information Technology | Micro-Cap | 2026-10-01 | $7.21 | $9.50 | 61, Buy | 60, Hold | 15/30 |
 | [2313](Information-Technology/3-Mid-Cap/2313/2313-2026-10-01.md) | Compeq Manufacturing / 華通電腦 | Information Technology | Mid-Cap | 2026-10-01 | NT$223.0 | NT$145.63 | 55, Hold | 58, Hold | 18/30 |
 | [3036](Information-Technology/3-Mid-Cap/3036/3036-2026-10-01.md) | WT Microelectronics / 文曄科技 | Information Technology | Mid-Cap | 2026-10-01 | NT$191.0 | NT$297.86 | 66, Buy | 60, Hold | 23/30 |
+| [688213](Information-Technology/3-Mid-Cap/688213/688213-2026-10-01.md) | SmartSens Technology / 思特威 | Information Technology | Mid-Cap | 2026-10-01 | CN¥92.03 | CN¥69.09 | 58, Hold | 57, Hold | 17/30 |
 | [001389](Information-Technology/4-Large-Cap/001389/001389-2026-10-01.md) | Delton Technology (Guangzhou) / 广合科技 | Information Technology | Large-Cap | 2026-10-01 | CN¥177.59 | CN¥114 | 55, Hold | 58, Hold | 19/30 |
+| [002463](Information-Technology/4-Large-Cap/002463/002463-2026-10-01.md) | WUS Printed Circuit / 沪电股份 | Information Technology | Large-Cap | 2026-10-01 | CN¥119.22 | CN¥62.55 | 59, Hold | 66, Buy | 24/30 |
 | [2344](Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md) | Winbond Electronics | Information Technology | Large-Cap | 2026-10-01 | NT$180.5 | NT$147 | 62, Buy | 50, Hold | 22/30 |
 | [2408](Information-Technology/4-Large-Cap/2408/2408-2026-10-01.md) | Nanya Technology | Information Technology | Large-Cap | 2026-10-01 | NT$490.0 | NT$249.68 | 58, Hold | 45, Hold | 22/30 |
 | [300308](Information-Technology/4-Large-Cap/300308/300308-2026-10-01.md) | Zhongji Innolight / 中际旭创 | Information Technology | Large-Cap | 2026-10-01 | CN¥808.44 | CN¥553 | 59, Hold | 64, Buy | 24/30 |
+| [300476](Information-Technology/4-Large-Cap/300476/300476-2026-10-01.md) | Victory Giant Technology / 胜宏科技 | Information Technology | Large-Cap | 2026-10-01 | CN¥263.05 | CN¥127.68 | 50, Hold | 56, Hold | 20/30 |
 | [300502](Information-Technology/4-Large-Cap/300502/300502-2026-10-01.md) | Eoptolink / 新易盛 | Information Technology | Large-Cap | 2026-10-01 | CN¥455.8 | CN¥209 | 51, Hold | 56, Hold | 21/30 |
 | [6770](Information-Technology/4-Large-Cap/6770/6770-2026-10-01.md) | Powerchip Semiconductor Manufacturing (PSMC) / 力積電 | Information Technology | Large-Cap | 2026-10-01 | NT$73.5 | NT$28.73 | 55, Hold | 45, Hold | 15/30 |
 | [A005930](Information-Technology/5-Mega-Cap/A005930/A005930-2026-10-01.md) | Samsung Electronics | Information Technology | Mega-Cap | 2026-10-01 | ₩276000 | ₩251707 | 68, Buy | 68, Buy | 27/30 |

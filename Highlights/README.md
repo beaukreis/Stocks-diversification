@@ -5,7 +5,7 @@
 Stocks are ranked purely by their **12-month investment score**, across all sectors and sizes.
 Only each stock's latest report counts. This folder holds no copies of reports. Follow the location link to read the full analysis.
 
-**Slots filled:** 10 of 10 · **Stocks covered:** 20
+**Slots filled:** 10 of 10 · **Stocks covered:** 24
 
 | Rank | Ticker | Company | 12-month score | Rating | Analysis date | Location |
 |---|---|---|---|---|---|---|
@@ -17,8 +17,8 @@ Only each stock's latest report counts. This folder holds no copies of reports. 
 | 6 | **2543** | DAHON TECH (Shenzhen) / 大行科工 | 63/100 | Buy | 2026-10-01 | [Consumer-Discretionary/1-Micro-Cap/2543/2543-2026-10-01.md](../Consumer-Discretionary/1-Micro-Cap/2543/2543-2026-10-01.md) |
 | 7 | **2344** | Winbond Electronics | 62/100 | Buy | 2026-10-01 | [Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md](../Information-Technology/4-Large-Cap/2344/2344-2026-10-01.md) |
 | 8 | **KVHI** | KVH Industries | 61/100 | Buy | 2026-10-01 | [Information-Technology/1-Micro-Cap/KVHI/KVHI-2026-10-01.md](../Information-Technology/1-Micro-Cap/KVHI/KVHI-2026-10-01.md) |
-| 9 | **300308** | Zhongji Innolight / 中际旭创 | 59/100 | Hold | 2026-10-01 | [Information-Technology/4-Large-Cap/300308/300308-2026-10-01.md](../Information-Technology/4-Large-Cap/300308/300308-2026-10-01.md) |
-| 10 | **GUER** | Guerrilla RF | 59/100 | Hold | 2026-10-01 | [Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md](../Information-Technology/1-Micro-Cap/GUER/GUER-2026-10-01.md) |
+| 9 | **002463** | WUS Printed Circuit / 沪电股份 | 59/100 | Hold | 2026-10-01 | [Information-Technology/4-Large-Cap/002463/002463-2026-10-01.md](../Information-Technology/4-Large-Cap/002463/002463-2026-10-01.md) |
+| 10 | **300308** | Zhongji Innolight / 中际旭创 | 59/100 | Hold | 2026-10-01 | [Information-Technology/4-Large-Cap/300308/300308-2026-10-01.md](../Information-Technology/4-Large-Cap/300308/300308-2026-10-01.md) |
 
 Ties are broken by the 5-year score, then by the most recent analysis.
 ⚠️ marks a report older than 90 days. Its 12-month view may be out of date and is worth refreshing.
